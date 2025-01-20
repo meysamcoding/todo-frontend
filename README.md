@@ -63,3 +63,6 @@ Technologies Used
 Next.js: Provides a fast, server-rendered React framework for building the app.
 React: Manages the app's components and state.
 Tailwind CSS: Handles the styling of the app with utility-first classes.
+![Screenshot 2025-01-19 201550](https://github.com/user-attachments/assets/cb127c50-b3cb-401e-b40a-2c788c25b896)
+
+
