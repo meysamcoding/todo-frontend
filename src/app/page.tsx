@@ -24,7 +24,7 @@ export default function Home() {
           />
           <h1 className="text-[40px] font-extrabold leading-[48.41px] text-white flex items-center">
             <span className="text-[#4EA8DE]">Todo&nbsp;</span>
-            <span className="text-[#5E60CE]">App</span>
+            <span className="text-[#5E60CE]">App </span>
           </h1>
         </div>
 
